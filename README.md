@@ -1,2 +1,2 @@
 # Akorn
-Regenerative Marketplace Source Code
+Environmental/ sustainability project for hackathon. 
