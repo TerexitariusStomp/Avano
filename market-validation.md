@@ -1,0 +1,3 @@
+# Market Validation
+
+Values, Increasing Importance Climate Risk Equity- Diversity Transparency/ Validation ESG Trends- Investing Companies Stop Accepting Crypto Tesla Energy Concerns Cryptocurrency Starting to have Positive Environmental Impact Crypto Climate Accord 40 Supporters World Economic Forum, Energy Web Foundation, ConsenSys 100% Renewable by 2050 Klima/ Toucan $6 million carbon credits bought $451 million volume in 3 days, equivalent to whole carbon credit trading in 2021 Market Size 2027 Carbon Credits Alone USD $2,407 million Biodiversity Credits: $1.8-$2.9 billion at minimum, and likely much more, as 80% of existing programs are not transparent enough to estimate their market size Global market for ecosystem services: $36 billion

@@ -1,0 +1,3 @@
+# Members
+
+The people that make the DAO community are composed of experts in measurement and verification of regenerative actions, entities that are implementing regenerative activities (after they have had their first regenerative action measured and verified to be implemented), artists, and the lay community (investors in IDO are considered part of the lay community). DAO tokens are able to maintain high APY yields due to bonding curves. The APY yields are one of the main incentives for the DAO community members to continue to be active members in the community.
