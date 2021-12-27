@@ -1,0 +1,3 @@
+# Cross Benefit Exchanging and Appropriate Valuation
+
+Determined by the Market Once an action is verified to have been completed, the additional benefits from that action start to accrue. An NFT holds information about these benefits and the action itself. At any point in time the holder of that NFT can exchange it for tokens. These tokens are based on the action itself (100 trees recorded planted: 100 tree tokens) or the additional benefits from that action (carbon sequestered, soil nutrients retained, etc.). These tokens are able to be traded in the wider crypto marketplace and from this have a value as determined by the market.
