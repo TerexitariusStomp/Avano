@@ -64,4 +64,5 @@
   * [Additional Resources](readme/additional-resources.md)
 * [Oracle](oracle.md)
 * [Important Notice](important-notice.md)
-* [Page 1](page-1.md)
+* [Whitepaper Guidelines](whitepaper-guidelines.md)
+* [Page 2](page-2.md)
