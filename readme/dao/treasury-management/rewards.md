@@ -1,6 +1,6 @@
 # Rewards
 
-The best token projects focus on tokens as a means to build network effects and help govern the network. The token sale is simply a bonus that can be used to facilitate distribution and raise money.
+The best token projects focus on tokens as a means to build network effects and help govern the network. The token sale is simply a bonus that can be used to facilitate distribution and raise money. Fixed income for DAO members
 
 **Opolis Benefits for DAOs**
 

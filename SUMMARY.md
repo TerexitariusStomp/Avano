@@ -65,4 +65,4 @@
 * [Oracle](oracle.md)
 * [Important Notice](important-notice.md)
 * [Whitepaper Guidelines](whitepaper-guidelines.md)
-* [Page 2](page-2.md)
+* [Token Distribution](token-distribution.md)
