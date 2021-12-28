@@ -17,6 +17,8 @@
     * [Arweave and IPFS](readme/foundational-technology/arweave-and-ipfs/README.md)
       * [Database Management](readme/foundational-technology/arweave-and-ipfs/database-management.md)
     * [SaveTrees](readme/foundational-technology/savetrees.md)
+    * [Website](readme/foundational-technology/website.md)
+    * [DEX](readme/foundational-technology/dex.md)
   * [DAO](readme/dao/README.md)
     * [Members](readme/dao/members.md)
     * [Community Outreach](readme/dao/community-outreach.md)
@@ -60,3 +62,4 @@
   * [Gamification](readme/gamification.md)
   * [Road Map](readme/road-map.md)
   * [Additional Resources](readme/additional-resources.md)
+* [Oracle](oracle.md)
