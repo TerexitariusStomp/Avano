@@ -63,3 +63,5 @@
   * [Road Map](readme/road-map.md)
   * [Additional Resources](readme/additional-resources.md)
 * [Oracle](oracle.md)
+* [Important Notice](important-notice.md)
+* [Page 1](page-1.md)
