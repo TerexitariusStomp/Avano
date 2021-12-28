@@ -9,7 +9,6 @@
     * [Cross Benefit Exchanging and Appropriate Valuation](readme/introduction/cross-benefit-exchanging-and-appropriate-valuation.md)
     * [Market Validation](readme/introduction/market-validation.md)
     * [Revenue Sources](readme/introduction/revenue-sources.md)
-    * [Akorn Team](readme/introduction/akorn-team.md)
     * [Testimonials](readme/introduction/testimonials.md)
   * [Foundational Technology](readme/foundational-technology/README.md)
     * [NFTs](readme/foundational-technology/nfts.md)

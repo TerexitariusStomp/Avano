@@ -1,3 +1,0 @@
-# Akorn Team
-
-T.R. Price Global Thought Leader MIT Solve Recognized Published Scientist Ecosystem Services Experienced International Project Leader Environmental Economics PhD Candidate Marcos Da Silva Google Cloud Engineer Advisor of Financial Services Google Business Development Specialist Educated Strategist Featured Speaker BNN Bloomberg Toufi Saliba Global Chair IEEE AI Standards CEO of TODA Protocol Cocreator of Earth Backing for TODA Leader in AI and Machine Learning Expert in Cryptography Victor Cucos Chief Strategy Officer- 3commas Proven Profitability Track Record Track Record Mentoring Successful Startups Value Creation P/L Performance
