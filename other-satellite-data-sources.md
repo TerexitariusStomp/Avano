@@ -1,3 +1,5 @@
 # Other Satellite Data Sources
 
-[https://resourcewatch.org/](https://resourcewatch.org)
+{% embed url="https://resourcewatch.org" %}
+[https://forestatrisk.cirad.fr/maps.html](https://forestatrisk.cirad.fr/maps.html)
+{% endembed %}

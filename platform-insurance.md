@@ -1,3 +1,3 @@
 # Platform Insurance
 
-Insurace&#x20;
+Insurace Contracts audited audits by CertiK for the security of the code
