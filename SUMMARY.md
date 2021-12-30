@@ -44,7 +44,7 @@
     * [Astraea](readme/measurement-and-verification-of-actions/astraea.md)
     * [dClimate](readme/measurement-and-verification-of-actions/dclimate.md)
     * [Restor](readme/measurement-and-verification-of-actions/restor.md)
-    * [Other Satellite Data Sources](readme/measurement-and-verification-of-actions/other-satellite-data-sources.md)
+    * [Other Satellite Data Sources](other-satellite-data-sources.md)
     * [Natural Capital Project](readme/measurement-and-verification-of-actions/natural-capital-project.md)
     * [FlintPro](readme/measurement-and-verification-of-actions/flintpro.md)
     * [IOTA](readme/measurement-and-verification-of-actions/iota.md)
