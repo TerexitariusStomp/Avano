@@ -1,6 +1,18 @@
 # Rewards
 
-The best token projects focus on tokens as a means to build network effects and help govern the network. The token sale is simply a bonus that can be used to facilitate distribution and raise money. Fixed income for DAO members
+Propose this to the Klima DAO community
+
+Olympus will receive 1.1% fee on all bonds (so accumulates LOBI without emission of new OHM and will be able to participate in Lobis' governance)
+
+Olympus continue expanding its user base
+
+Olympus community receives an airdrop
+
+Lobis will accumulate OHM through the accumulation of OHM/LOBI LP tokens thanks to liquidity bonds
+
+At the launch of project, Lobis will lend LOBI tokens to Olympus which will pair them with its reserve's OHM and enable the bootstraping of the liquidity
+
+The best token projects focus on tokens as a means to build network effects and help govern the network. The token sale is simply a bonus that can be used to facilitate distribution and raise money. Income for DAO members
 
 [https://smartinvoice.xyz/](https://smartinvoice.xyz)
 
