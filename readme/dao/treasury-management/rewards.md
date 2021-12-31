@@ -1,5 +1,7 @@
 # Rewards
 
+DAO tokens are able to maintain high APY yields due to bonding curves. The APY yields are one of the main incentives for the DAO community members to continue to be active members in the community.
+
 A universal basic income for all DAO token holders paid out by wallet address not token amount, that are verified with proof of humanity. Propose this to the Klima DAO community
 
 Fun pool- IRL events&#x20;
