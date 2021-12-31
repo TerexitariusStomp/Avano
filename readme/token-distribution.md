@@ -2,7 +2,7 @@
 
 We are still collectively deciding how to allocate tokens and the percentage of funding to use for what but the initial (working charts on) distribution is as follows. If you would like to suggest something please leave us a comment [here](https://docs.google.com/spreadsheets/d/1KicDCmhtbtf8FscG2B33KrCc5Rc378KTXpHAwCvL2-M/edit?usp=sharing).&#x20;
 
-![](<.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 For Measurement Tech, Onboarded Organizations, and Artists a percentage of their token pool is distributed to them after each time they complete an action. Percentage is used to encourage early adopters but be able to disperse to anyone who wants to become part of Akorn into the future.&#x20;
 
@@ -38,7 +38,7 @@ Lay community
 
 Tokens distributed to the lay community are described below.&#x20;
 
-![](<.gitbook/assets/image (4).png>)&#x20;
+![](<../.gitbook/assets/image (4).png>)&#x20;
 
 Gifting
 
@@ -64,7 +64,7 @@ In the case of not receiving enough funding from the LBP an IDO will be created 
 
 Use of Funds
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 The funding gathered will be used for a variety of purposes.&#x20;
 
