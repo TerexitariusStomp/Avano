@@ -1,6 +1,8 @@
 # Rewards
 
-A universal basic income for all DAO token holders paid out by wallet address not token amount. Propose this to the Klima DAO community
+A universal basic income for all DAO token holders paid out by wallet address not token amount, that are verified with proof of humanity. Propose this to the Klima DAO community
+
+Fun pool- IRL events&#x20;
 
 Provide $30,000 to KlimaDAO’s marketing team with the intent of collaborative marketing between us and MOSS.
 
