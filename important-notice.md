@@ -1,4 +1,4 @@
-# Important Notice
+# Disclaimer
 
 LINK digital tokens (hereinafter referred to as “LINK”) are not intended to constitute securities, units in a collective investment scheme, or other capital market products each as defined under the Securities and Futures Act (Cap. 289) (“SFA”) of Singapore, or its equivalent or any other regulated products in any jurisdiction.
 
