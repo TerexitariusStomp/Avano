@@ -1,18 +1,5 @@
 # Akorn-White Paper
 
-* \
-
-
-294
-
-294
-
-Follow
-
-Klima DAO
-
-
-
 _The information provided in this Medium Post pertaining to Klima DAO,_\
 _Inc. (“Klima DAO” or the “Company”), its crypto-assets, business assets,_\
 _strategy, and operations, is for general informational purposes only and is not_\

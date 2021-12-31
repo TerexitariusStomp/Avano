@@ -70,3 +70,4 @@
 * [Knowledge Creation](knowledge-creation.md)
 * [Platform Insurance](platform-insurance.md)
 * [Page 1](page-1.md)
+* [Disclaimer](disclaimer.md)
