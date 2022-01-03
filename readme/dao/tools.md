@@ -1,5 +1,37 @@
 # Tools
 
+Resources: [https://about.gitlab.com/company/culture/all-remote/guide/](https://about.gitlab.com/company/culture/all-remote/guide/)
+
+In real life entity creation: [https://otonomos.com/](https://otonomos.com)
+
+Collaborative Coding: [https://www.zenhub.com/pricing](https://www.zenhub.com/pricing)
+
+{% embed url="https://www.zentao.pm" %}
+
+Coworking spaces: [https://coworkingmap.org/](https://coworkingmap.org)
+
+Send Kudos to members on Linkedin: [https://www.linkedjetpack.com/linkedin-secrets/linkedin-kudos/](https://www.linkedjetpack.com/linkedin-secrets/linkedin-kudos/)
+
+Time Keeping [https://clockify.me/](https://clockify.me) [https://pendulums.io/](https://pendulums.io)&#x20;
+
+Automated application connections: [https://www.pabbly.com/connect/](https://www.pabbly.com/connect/)
+
+Treasury Management [https://cobudget.co/#/#pricing](https://cobudget.co/#/#pricing)
+
+Greeting Cards, Birthday, Holiday [https://sendwishonline.com/](https://sendwishonline.com)&#x20;
+
+Management resources: [https://management30.com/practice/](https://management30.com/practice/)&#x20;
+
+Team collaboration mapping: [https://www.sociomapping.com/](https://www.sociomapping.com)
+
+Slack
+
+{% embed url="https://thedecider.app" %}
+
+{% embed url="https://geekbot.com/pricing" %}
+
+Icebreakers: [https://icebreaker.range.co/8abaqx](https://icebreaker.range.co/8abaqx)&#x20;
+
 When we use Sobol to create the knowledge map, use personality tests as well and connect with LinkedIn [https://docs.google.com/spreadsheets/d/1EADEAfITaeUPaWXFA-r3lhMlp6cpsYkPD32Jb4pQyDs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EADEAfITaeUPaWXFA-r3lhMlp6cpsYkPD32Jb4pQyDs/edit?usp=sharing)
 
 Notifications: [https://www.courier.com/](https://www.courier.com)
