@@ -69,3 +69,4 @@
     * [DEX](readme/foundational-technology/dex.md)
     * [Oracle](oracle.md)
 * [Already Done](already-done.md)
+* [Writing](writing.md)
