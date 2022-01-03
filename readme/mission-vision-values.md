@@ -28,7 +28,7 @@ a.      taking action against malicious actors, such as a stakeholder who tries 
 
 4\.      Fun - We don’t take ourselves too seriously.
 
-5\.      Collaboration - We can do great things together.
+5\.      Collaboration Over Competition - We can do great things together.&#x20;
 
 6\.      Inclusivity - We are accepting of all backgrounds, disciplines, and cultures. We believe in diversity. We will never tolerate discrimination of any kind.
 
@@ -39,6 +39,8 @@ a.      taking action against malicious actors, such as a stakeholder who tries 
 9\.      Future-oriented and Long-term thinkers - We believe in creating a future that’s generative, sustainable, and enriching.
 
 10\.   Be biased towards action over discussion
+
+11\.   Political and Religious Neutrality- These are charged subjects and want our community to be a safe space. As such we ask community members not talk about political or religious issues.&#x20;
 
 **Community Values**
 
