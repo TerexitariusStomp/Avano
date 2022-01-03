@@ -1,0 +1,3 @@
+# Quadratic Funding
+
+In order to help initial onboarding of organizations in their fundraising efforts we will maintain a quadratic funding pool. This funding pool will gather resources through our a percentage of our revenue sources. Currently set at 5% (up for debate). Based on the DAO decisions for how much they want to support the regenerative action category that the onboarding organization belongs to a percent of that funding pool is allocated. Detailed example of how this mechanism works is from Gitcoin: [https://wtfisqf.com/](https://wtfisqf.com/?grant=\&grant=\&grant=\&grant=\&match=1000)
