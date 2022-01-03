@@ -12,6 +12,7 @@
   * [DAO](readme/dao/README.md)
     * [Onboarding](readme/dao/onboarding/README.md)
       * [Knowledge Base](readme/dao/onboarding/knowledge-base.md)
+      * [Proof of Existence](readme/dao/onboarding/proof-of-existence.md)
     * [Composition](readme/dao/composition.md)
     * [Community Outreach](readme/dao/community-outreach.md)
     * [Constitution](readme/dao/constitution.md)
