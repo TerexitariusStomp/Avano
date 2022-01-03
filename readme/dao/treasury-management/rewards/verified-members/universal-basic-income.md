@@ -1,0 +1,3 @@
+# Universal Basic Income
+
+Once a DAO token holder has been verified by our current provider of Proof of Humanity/ Existence they can verify that through our portal (link to come). After they are verified of having both the Akorn DAO token and Proof of Humanity/ Existence tied to their wallet, they will receive an amount (will try to have this income be consistent each month but may vary based upon how the Akorn platform revenue is doing) of universal basic income each month to their wallet. This will encourage people to care and become stakeholders of Akorn DAO. When they have become committed stakeholders, they will be eligible for further rewards.&#x20;

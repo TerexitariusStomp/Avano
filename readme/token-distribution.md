@@ -1,5 +1,7 @@
 # Token Distribution
 
+The best token projects focus on tokens as a means to build network effects and help govern the network. The token sale is simply a bonus that can be used to facilitate distribution and raise money.
+
 We are still collectively deciding how to allocate tokens and the percentage of funding to use for what but the initial (working charts on) distribution is as follows. If you would like to suggest something please leave us a comment [here](https://docs.google.com/spreadsheets/d/1KicDCmhtbtf8FscG2B33KrCc5Rc378KTXpHAwCvL2-M/edit?usp=sharing).&#x20;
 
 ![](<../.gitbook/assets/image (5).png>)
