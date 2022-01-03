@@ -1,3 +1,15 @@
 # Vote Weighting
 
-believe stakeholders should generally be staked in the GEN economy **** Quadratic Voting, Staked Voting, Specialization Weight A recurring value is long-term thinking. Here are some approaches to help, using time-weighted voting power. In Conviction Voting, vote increases with the amount of stake and the time staked for the vote. In Arweave Profit Sharing Communities, votes are weighted by the number of tokens the voter holds, multiplied by the time they are willing to lock them. In Yearn.finance, weight is scaled by x/365, where x is days locked.I call this the Web3 Sustainability Loop. The image below illustrates this. It has parallels to successful nations and successful businesses. At its heart is a loop, designed for “snowball effect” growth of the ecosystem. The Workers (center) do work to help grow the Web3 Project Ecosystem (right). Apps and services generate revenue, using the Web3 project’s tools. A non-extractive fraction of that revenue is looped back (arrow looping from right to left) as Network revenue to the Web3 community: to Buy & Burn $TOKEN (bottom left) and back to workers curated by the community according (center-left). To catalyze growth and ensure decent funding in early days, Network rewards (left) also feed to Workers.
+We use several mechanisms for vote weighting
+
+time weighted voting power
+
+For voting votes are weighted by the number of tokens the voter holds multiplied by the time that the holder has locked them. This helps to create a recurring value into long-term thinking.
+
+Quadratic Voting&#x20;
+
+In order for people to really support the proposals they like, we are considering the implementation of quadratic voting. Can learn more here: [https://en.wikipedia.org/wiki/Quadratic\_voting](https://en.wikipedia.org/wiki/Quadratic\_voting)
+
+Reputation Voting
+
+In the future we may use Colony's reputation voting system. &#x20;

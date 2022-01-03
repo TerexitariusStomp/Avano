@@ -14,28 +14,32 @@ Billboards
 
 Crypto has been taking over billboards lately and we can definitely see this marketing opportunity. When available we will use billboards to let people know about Akorn. &#x20;
 
+Events&#x20;
+
+We will participate in events both online and in person to be able to have active community involvement one of the first event lists we will be participating in is: http://refispring.com/
+
 Non-Physical
 
-Affiliate Marketing: [https://hoqu.com/](https://hoqu.com)&#x20;
+Standards and Guiding Frameworks&#x20;
 
-petitions and alliances such as https://www.globaldealfornature.org/ https://www.onepercentfortheplanet.org/ Events: http://refispring.com/&#x20;
+One of our strongest ways in which to present ourselves to the broader community in a non-physical space is by aligning our actions with standards and guiding frameworks for international development.&#x20;
 
-Become a member of EcoDAO [https://opensea.io/assets/0xdf5b5ee15cc96ba7d0cb6bd9b2c0fc4417ab6445/415](https://opensea.io/assets/0xdf5b5ee15cc96ba7d0cb6bd9b2c0fc4417ab6445/415)
+Project Drawdown
 
-&#x20;[https://metahero.io/tech](https://metahero.io/tech) [https://everdome.io/](https://everdome.io) Synchronize socials through: [https://matrix.org/](https://matrix.org)&#x20;
+We are working with Colab.Coop on measuring how the actions we support help in key metrics developed by Project Drawdown. Project Drawdown is one of the most comprehensive climate change adaptation and mitigation frameworks created by a global community.&#x20;
 
-&#x20;NFTs placed into existing NFT marketplace and metaverses https://oncyber.io/ NFT gallery Already on Gitcoin, Giveth and Democracy Lab will join others such as https://clr.fund/#/recipients​ https://verra.org/project/ccb-program/ https://verra.org/project/sd-vista/ Confirming to certain certification standards [http://ledgerjournal.org/ojs/ledger](http://ledgerjournal.org/ojs/ledger) **Alignment of Actions with SDGs and other guiding frameworks (Project Drawdown, Colab.coop)** [**https://www.climatechaincoalition.io/**](https://www.climatechaincoalition.io) **** [****\
+Sustainable Development Goals
+
+We are also measuring our actions ability to benefit the United Nations Sustainable Development Goals, this is done through the initial toolset from Natural Capital Project but other methods will be developed into the future. [https://naturalcapitalproject.stanford.edu/publications/mesh-factsheet-mapping-ecosystem-services-human-wellbeing](https://naturalcapitalproject.stanford.edu/publications/mesh-factsheet-mapping-ecosystem-services-human-wellbeing)
+
+Volunteer Environmental Offset Standards
+
+We utilize and go beyond Verra standards for how our actions impact Sustainable Development, as well as Climate, Community and Biodiversity Standards. https://verra.org/project/ccb-program/ https://verra.org/project/sd-vista/&#x20;
+
+Signing Petitions and Alliances
+
+Current petitions and alliances we are in the process of signing/ have signed are: https://www.globaldealfornature.org/ https://www.onepercentfortheplanet.org/ [**https://www.climatechaincoalition.io/**](https://www.climatechaincoalition.io) **** [****\
 **https://www.1t.org/commitments-and-members**\
-**https://www.onepercentfortheplanet.org/**](https://www.1t.org/commitments-and-membershttps://www.onepercentfortheplanet.org/) **** [**https://alpha.layer3.xyz/**](https://alpha.layer3.xyz) **Pay DAO community Work with HoneypotDAO to find flaws in contracts** [**https://snapshot.org/#/%F0%9F%8D%AFdao.eth**](https://snapshot.org/#/%F0%9F%8D%AFdao.eth)****
+**https://www.onepercentfortheplanet.org/**](https://www.1t.org/commitments-and-membershttps://www.onepercentfortheplanet.org/) **** [**https://cryptoclimate.org/**](https://cryptoclimate.org) **** [**https://interwork.org/**](https://interwork.org) **** [**https://gbbcouncil.org/**](https://gbbcouncil.org/https://ethlance.com/) **** [https://www.ixsa.earth/](https://www.ixsa.earth)&#x20;
 
-[****\
-****](https://www.1t.org/commitments-and-membershttps://www.onepercentfortheplanet.org/)****[****\
-**https://cryptoclimate.org/**\
-****](https://cryptoclimate.org)****[**https://interwork.org/**](https://interwork.org)****
-
-****[****\
-**https://gbbcouncil.org/**\
-**https://ethlance.com/**\
-****](https://gbbcouncil.org/https://ethlance.com/)****
-
-[https://www.ixsa.earth/](https://www.ixsa.earth)&#x20;
+We will tap into marketing resources as much as possible. Word of mouth through paying for referrals and affiliate marketing are tools we will tap into: [https://hoqu.com/](https://hoqu.com)&#x20;
