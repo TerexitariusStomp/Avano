@@ -8,7 +8,7 @@ As with any organization one of the ways to get people to know your brand is to 
 
 Art Studios
 
-We will partner with studios to host our NFT artwork, such as IRL art. There is also the possibility for us to establish our own in real life NFT studio.&#x20;
+We will partner with studios to host our NFT artwork, such as [IRL art](https://irlart.com) and [Bright Moments](https://www.brightmoments.io). There is also the possibility for us to establish our own in real life NFT studio.&#x20;
 
 Billboards
 
