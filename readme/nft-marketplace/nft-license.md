@@ -1,0 +1,3 @@
+# NFT License
+
+We want artists to be able to protect their work the way they want to protect it. Different licenses (open use, to non proprietary) and the benefits that come with them are able to affect the value of the NFT. When artists are portraying their work for the first time they select the type of artistic license that is associated with that work. When the NFT is minted the license is embedded into the metadata. Here is our current [licenses document](https://docs.google.com/document/d/1hVar-DroYsfGxAcE3roVOiSGnltohyO-XhgzALp8Hj0/edit?usp=sharing).&#x20;

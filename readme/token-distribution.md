@@ -40,13 +40,19 @@ Lay community
 
 Tokens distributed to the lay community are described below.&#x20;
 
-![](<../.gitbook/assets/image (4).png>)&#x20;
+![](<../.gitbook/assets/image (2).png>)&#x20;
 
 Gifting
 
 When the lay community supports Akorn monetarily they are gifted a token. For example: when an NFT is bought for the first time (channeling funds to the regenerative action) the funder gets a percentage of the token pool.&#x20;
 
 Currently this is at 0.1%.
+
+Embedding in NFTs
+
+When an NFT is minted from the Akorn DAO marketplace, a percentage of staked tokens are embedded into it's smart contract. These tokens accumulate the staked yields but are irreversibly fused to the smart contract of the NFT.&#x20;
+
+Currently this is at .00001% of the token pool
 
 Initial DAO Participants
 

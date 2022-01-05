@@ -1,0 +1,5 @@
+# Tools
+
+We want the tools we use to be accessible to any DAO at any point in their lifecycle. For this reason we want the tools that our community uses to be primarily free and open source, not tools that charge per user or are overly expensive. The lists of DAO specific tools we find resources from and help to keep updated are [DAOists](https://www.daoists.xyz), and [DAOmasters](https://www.daomasters.xyz). The list of general remote working tools we find resources from and help to keep updated is [Collaboration Superpowers](https://www.collaborationsuperpowers.com/,).&#x20;
+
+We want to learn from communities that are actively involved with a decentralized workforce and turn to [Gitlab](https://about.gitlab.com/company/culture/all-remote/guide/), [Management30](https://management30.com/practice/), [Two Row Wampum](https://harolddavis3.github.io/Two-Row-Wampum-Social-Layer-Platform#/?id=two-row-wampum-social-layer) among other organizations for this (if you have an organization that you think we should check out please let us know.&#x20;
