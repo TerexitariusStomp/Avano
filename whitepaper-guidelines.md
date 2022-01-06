@@ -164,14 +164,4 @@ Example Papers
 
 &#x20;
 
-Make Writing Easy to Understand
-
-[https://readable.com/pro/](https://readable.com/pro/)
-
-[https://www.grammarly.com/plans](https://www.grammarly.com/plans)
-
-[https://hemingwayapp.com/desktop.html](https://hemingwayapp.com/desktop.html)
-
-&#x20;
-
 &#x20;
