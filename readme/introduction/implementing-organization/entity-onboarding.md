@@ -30,6 +30,8 @@ Amount of Action For Initial Project: How much of the action will be incorporate
 
 Cost of Action: The cost to the entity to implement the regenerative action.&#x20;
 
+Cost of Maintenance of Action: The yearly cost to maintain the regenerative action.&#x20;
+
 Updates from the Field: How often the project communicates with the funders about how the action is going.
 
 Regenerative action description: a text description of what the project is&#x20;
