@@ -1,5 +1,9 @@
 # Writing
 
+## Articles and Posting
+
+We encourage our community members to write, especially implementing organizations. We suggest at least one article per quarter and a new post per week.
+
 ## Paid for Writing
 
 We encourage the regenerative organizations that we support to write monthly articles on the work they are doing and their experience doing it. To reach as much an audience as possible, writing should be as understandable as possible. For the writing produced we recommend checking it with[ Grammarly](https://www.grammarly.com/plans), [The Hemingway App](https://hemingwayapp.com/desktop.html), or [Readable](https://readable.com/pro/) before publishing.

@@ -6,94 +6,90 @@ The first step that an entity sees when becoming an implementing organization pa
 
 ## Entity Information&#x20;
 
-Following is information that the entity can update to create their unique profile.&#x20;
+Following is information that the entity can update to create their unique profile. We recommend writing an individual article on each of the different sections below (within reason), publishing it and then linking that to your profile.&#x20;
 
-Entity Name: Name of entity or individual implementing the regenerative action
+## Required
 
-Entity Online Presence: Any external links showing evidence of the entity
+**Entity Name:** Name of entity or individual implementing the regenerative action
 
-Entity Members: Names of members and social links of those responsible for carrying out the regenerative action&#x20;
+**Entity Online Presence:** Any external links showing evidence of the entity
 
-Signer Responsible for Carrying Out the Regenerative Action: The name and signature of the person holding themself/ the entity responsible for carrying out the regenerative action
+**Entity Members:** Names of members and social links of those responsible for carrying out the regenerative action&#x20;
 
-Where is the Entity Established: which location the entity operates.&#x20;
+**Signer Responsible for Carrying Out the Regenerative Action:** The name and signature of the person holding themself/ the entity responsible for carrying out the regenerative action
 
-Proposed Action Location: Demarcation of the action location &#x20;
+**Where is the Entity Established:** which location the entity operates.&#x20;
 
-Regenerative Action Type: Forest, Agriculture, Ocean, Other
+**Proposed Action Location:** Demarcation of the action location &#x20;
 
-Metric of Action: The measurable quantity of action (ie. 100 trees planted)
+**Regenerative Action Type:** Forest, Agriculture, Ocean, Other
 
-Scale of Action: How much of the action in total can the entity do
+**Metric of Action:** The measurable quantity of action (ie. 100 trees planted)
 
-Amount of Action For Initial Project: How much of the action will be incorporated into the first proposed project.&#x20;
+**Scale of Action:** How much of the action in total can the entity do
 
-Cost of Action: The cost to the entity to implement the regenerative action.&#x20;
+**Amount of Action For Initial Project:** How much of the action will be incorporated into the first proposed project.&#x20;
 
-Cost of Maintenance of Action: The yearly cost to maintain the regenerative action.&#x20;
+**Cost of Action:** The cost to the entity to implement the regenerative action.&#x20;
 
-Updates from the Field: How often the project communicates with the funders about how the action is going.
+**Cost of Maintenance of Action:** The yearly cost to maintain the regenerative action.&#x20;
 
-Regenerative action description: a text description of what the project is&#x20;
+**Updates from the Field:** How often the project communicates with the funders about how the action is going.
 
-Complementary photos/ videos: photos that add to the regenerative action description
+**Regenerative action description:** a text description of what the project is&#x20;
 
-Historic action description: the proof of the work the entity has done to date and why the entity would be successful in implementing the regenerative action if funded.&#x20;
+**Complementary photos/ videos:** photos that add to the regenerative action description
 
-Historic photos/ videos: photos showing evidence of previous work
+**Timeline for implementing action:** when the entity thinks the action can be done by after receiving funding (planting season and it's affect on the action)
 
-Timeline for implementing action: when the entity thinks the action can be done by after receiving funding (planting season and it's affect on the action)
+**Proposed Measurement and Verification:** How you will measure and verify that the action has taken place.&#x20;
 
-General context (country, regional, local): how the regenerative project affects and is affected by the the country, regional and local context (political, social, economic etc.)
+## Optional&#x20;
 
-Heritage: how the action the entity is implementing promotes, documents and preserves cultural, environmental, and social practices for future generations knowledge
+**Historic action description:** the proof of the work the entity has done to date and why the entity would be successful in implementing the regenerative action if funded.&#x20;
 
-Social Economy: How the project the entity is implementing places social welfare above profit; the aim is to enhance the community's quality of life, economically, socially, culturally and environmentally.
+**Historic photos/ videos:** photos showing evidence of previous work
 
-Local Communities Involvement: how this project will involve the local community and engage them to become stakeholders in the project&#x20;
+**General context (country, regional, local):** how the regenerative project affects and is affected by the the country, regional and local context (political, social, economic etc.)
 
-Indigenous Tribes Involvement: how this project will involve indigenous tribes and engage them to become stakeholders in the project.
+**Heritage:** how the action the entity is implementing promotes, documents and preserves cultural, environmental, and social practices for future generations knowledge
 
-Public Involvement: how anyone, anywhere can become engaged and further support the action the entity is implementing. Links on how to visit the site where the action takes place and tourism infrastructure in place. If they accept student internships or volunteers.&#x20;
+**Social Economy:** How the project the entity is implementing places social welfare above profit; the aim is to enhance the community's quality of life, economically, socially, culturally and environmentally.
 
-Social Belonging: How the project promotes social belonging for marginalized groups to become stakeholders in the project.
+**Local Communities Involvement:** how this project will involve the local community and engage them to become stakeholders in the project&#x20;
 
-Education and Awareness Impacts: How this project will cultivate education and awareness for anyone to become a stakeholder.
+**Indigenous Tribes Involvement:** how this project will involve indigenous tribes and engage them to become stakeholders in the project.
 
-Certifications and Awards: Any certifications that the entity/ project might hold (such as organic; managed without the use of agrochemicals or herbicides). Project management excellence and its various contributions are recognized by received awards.&#x20;
+**Public Involvement:** how anyone, anywhere can become engaged and further support the action the entity is implementing. Links on how to visit the site where the action takes place and tourism infrastructure in place. If they accept student internships or volunteers.&#x20;
 
-Certified environmental offset offset The project generates carbon offsets certified by a highly recognized voluntary offset standard.&#x20;
+**Social Belonging:** How the project promotes social belonging for marginalized groups to become stakeholders in the project.
 
-Expert collaboration: How the entity is collaborating with other entities that are implementing organizations in Akorn and evidence of it.&#x20;
+**Education and Awareness Impacts:** How this project will cultivate education and awareness for anyone to become a stakeholder.
 
-Prevention of Losing Ecosystems: How this entity is preventing the loss of ecosystems.&#x20;
+**Certifications and Awards:** Any certifications that the entity/ project might hold (such as organic; managed without the use of agrochemicals or herbicides). Project management excellence and its various contributions are recognized by received awards.&#x20;
 
-Water Resources Management: How the entity uses water supplies sustainably.
+**Certified environmental offset offset:** The project generates carbon offsets certified by a highly recognized voluntary offset standard.&#x20;
 
-Equality Improvements: How the project aims to improve equity between gender, racial, sexual, economically (ie. improving the lives of poor people) etc.&#x20;
+**Expert collaboration:** How the entity is collaborating with other entities that are implementing organizations in Akorn and evidence of it.&#x20;
 
-Food Security: How this project enables food security for the population impacted by the regenerative action.
+**Prevention of Losing Ecosystems:** How this entity is preventing the loss of ecosystems.&#x20;
 
-Land Ownership Type: Private, Public, Tribal, combination of above or other&#x20;
+**Water Resources Management:** How the entity uses water supplies sustainably.
 
-Description of Land Ownership: How the land is controlled and how the regenerative action will be integrated with it.&#x20;
+**Equality Improvements:** How the project aims to improve equity between gender, racial, sexual, economically (ie. improving the lives of poor people) etc.&#x20;
 
-Fauna and Flora Conservation: Any particular species protection as a part of action, such as creation of safe habitats.&#x20;
+**Food Security:** How this project enables food security for the population impacted by the regenerative action.
 
-Scientific Research: Any research that will be benefited from this action and what the research is. &#x20;
+**Land Ownership Type:** Private, Public, Tribal, combination of above or other&#x20;
 
-Expected Benefits from the Action: Such as improving water quality and quantity and contributing to the reduction of water-related risks such as floods. Reduces exposure and vulnerability to extreme weather events. The project combats desertification in this way.&#x20;
+**Description of Land Ownership:** How the land is controlled and how the regenerative action will be integrated with it.&#x20;
 
+**Fauna and Flora Conservation:** Any particular species protection as a part of action, such as creation of safe habitats.&#x20;
 
+**Scientific Research:** Any research that will be benefited from this action and what the research is. &#x20;
 
-Could be measured through Satellite Imagery, Smart Technology, or Boots on the Ground Real: The certification that this action took place&#x20;
+**Expected Benefits from the Action:** Such as improving water quality and quantity and contributing to the reduction of water-related risks such as floods. Reduces exposure and vulnerability to extreme weather events. The project combats desertification in this way.&#x20;
 
-Link to an Article on How You are Doing on Each Below &#x20;
+## Measurement and Verification
 
-qualitative data reporting&#x20;
-
-he entity then enacts the regenerative activity in the area they have chosen to implement it. In order for this entity to have this action measured and verified to be completed, the entity needs to propose a methodology for this measurement and verification. Akorn will have a preset set of methodologies that these entities can choose from. These methodologies will be constantly updated to keep up with the most scientific process for the measurement and verification of actions as well as the additional benefits from them.&#x20;
-
-Information Initial Decentralized Offering (IDO) for Regenerative Organizations Upon the DAO(s) voting to add a regenerative organization, the organization carries out an IDO for the verified and measurable work they have done to date. This IDO is for an organizational work NFT.  During the IDO the organization is encouraged to market their offering to their community (emails, texts, group messages, social media). This brings further customers to our ecosystem, supporting not only the regenerative organization doing the IDO but also organizations that are already part. Organizations that are already part of the ecosystem are encouraged to comarket the IDO as the selling of this NFT affects the overall value within the ecosystem. Unique: Has a unique ID on a public ledger and can only be counted once. This identifier ties the creation event and the NFT permanently together.
-
-onboarding entity Project Partners Articles this quarter 0 You wrote only 0 articles. Write an article We suggest a minimum of 1 article per quarter Posts this quarter 0 You added 0 posts. Add a new post We suggest a minimum of 12 posts per quarter (1 per week)&#x20;
+When an entity proposes a regenerative action to take place they also propose how they will measure and verify that the action happened. Data collection can be done through satellite imagery, smart technology, or boots on the ground. We will have a data collection and analysis knowledge repository that different regenerative actions can tap into so they don't have to create new methods. If our repository doesn't have methods that are able to be used with the regenerative action the organization can contact us and we will help them to develop something new. This repository will be constantly updated to keep up with the most scientific process for the measurement and verification of actions as well as the additional benefits from them.&#x20;

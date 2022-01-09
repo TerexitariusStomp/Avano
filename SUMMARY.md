@@ -122,6 +122,7 @@
   * [DAOs We Pay](readme/daos-we-pay/README.md)
     * [RaidGuild](readme/daos-we-pay/raidguild.md)
     * [dOrg](readme/daos-we-pay/dorg.md)
+    * [BrainTrust](readme/daos-we-pay/braintrust.md)
     * [Web3 Designers](readme/daos-we-pay/web3-designers.md)
     * [Writing DAOs](readme/daos-we-pay/writing-daos.md)
     * [LexDAO](readme/daos-we-pay/lexdao.md)
@@ -135,3 +136,4 @@
   * [Road Map](readme/road-map.md)
   * [Additional Resources](readme/additional-resources.md)
 * [Multi/ Crosschain](multi-crosschain.md)
+* [Page 1](page-1.md)
