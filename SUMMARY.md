@@ -111,6 +111,7 @@
           * [Covered Publishing](readme/dao/treasury-management/rewards/verified-members/covered-publishing.md)
         * [Invoices](readme/dao/treasury-management/rewards/invoices.md)
       * [Decentralized Management](readme/dao/treasury-management/decentralized-management/README.md)
+        * [DeWork](readme/dao/treasury-management/decentralized-management/dework.md)
         * [DAO2DAOs](readme/dao/treasury-management/decentralized-management/dao2daos.md)
       * [Public Goods](readme/dao/treasury-management/public-goods.md)
     * [In Real Life Entity](readme/dao/in-real-life-entity.md)
