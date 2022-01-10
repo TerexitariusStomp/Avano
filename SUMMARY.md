@@ -98,6 +98,7 @@
       * [Quadratic Funding](readme/dao/treasury-management/quadratic-funding.md)
       * [Rewards](readme/dao/treasury-management/rewards/README.md)
         * [All Members](readme/dao/treasury-management/rewards/all-members/README.md)
+          * [Moonshot Collective](readme/dao/treasury-management/rewards/all-members/moonshot-collective.md)
           * [Ohm Fork](readme/dao/treasury-management/rewards/all-members/ohm-fork.md)
           * [Community Groups](readme/dao/treasury-management/rewards/all-members/community-groups.md)
           * [POAP](readme/dao/treasury-management/rewards/all-members/poap.md)
