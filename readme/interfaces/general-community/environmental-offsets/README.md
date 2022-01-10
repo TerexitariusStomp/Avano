@@ -1,0 +1,3 @@
+# Environmental Offsets
+
+Entities of all types are encouraged to offset their environmental impact. We will work with existing companies that calculate environmental impact to offer our environmental offsets to their customers and develop our own algorithms to calculate environmental impact. When the entity offsets their environmental impact tokens are bought and burned that demonstrate the amount of environmental impact being offset. Burning the tokens creates a permanent record of the amount of environmental impact being offset. Environmental impact offsets are expected to go beyond carbon offsets to things such as soil, water, other components of air, etc.  &#x20;

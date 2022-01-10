@@ -1,3 +1,0 @@
-# Environmental Offsets
-
-Tokens are used to offset environmental impact. The amount of environmental impact an entity has (organization or individual) can be calculated through tax information (or other data sources) along with cryptocurrency transactions and mining. Once calculated a purchase is made of the amount of tokens necessary to offset the environmental impact and these tokens are then burned. This creates a permanent record of the amount of environmental impact being offset. Environmental impact offsets are expected to go beyond carbon offsets to things such as soil, water, other components of air, etc. Partner with organizations to help fund regenerative activities (calculated carbon footprint and want to offset)

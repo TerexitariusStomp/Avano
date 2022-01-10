@@ -1,0 +1,3 @@
+# General Community
+
+When community members come to the platform (central website) they are, first asked their language of choice then asked to connect their cryptocurrency wallet. If they do not have a cryptocurrency wallet, they are notified as to the disadvantages of interacting with the platform (no NFTs from funding, not able to receive fiat funding back). Once they accept the disadvantages of interacting with the platform without a cryptocurrency wallet or have connected their cryptocurrency wallet, they are directed to a landing page. Every page of the platform is kept super simple so to maximize accessibility.&#x20;

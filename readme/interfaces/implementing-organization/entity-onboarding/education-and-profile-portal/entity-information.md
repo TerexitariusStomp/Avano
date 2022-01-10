@@ -1,10 +1,4 @@
-# Entity Onboarding
-
-## Education and Profile Portal
-
-The first step that an entity sees when becoming an implementing organization partner with Akorn is a profile creation portal and education section as to what rights are associated with the funding they receive. We ensure that entities know that only the right to benefits, that have a monetary value and can be resold, from the regenerative actions are associated with the funding. Land rights and other rights that they have claim to will not be touched. From there it is a super simple onboarding process. At no point during the initial creation or further creation of NFTs is coding by the regenerative organizations needed. This allows for the organizations to create their NFTs easily and become part of the ecosystem.
-
-## Entity Information&#x20;
+# Entity Information
 
 Following is information that the entity can update to create their unique profile. We recommend writing an individual article on each of the different sections below (within reason), publishing it and then linking that to your profile.&#x20;
 
@@ -26,15 +20,17 @@ Following is information that the entity can update to create their unique profi
 
 **Metric of Action:** The measurable quantity of action (ie. 100 trees planted)
 
-**Scale of Action:** How much of the action in total can the entity do
+**Scale of Action:** How much of the action in total can the entity do, after initial project is funded.&#x20;
 
 **Amount of Action For Initial Project:** How much of the action will be incorporated into the first proposed project.&#x20;
 
-**Cost of Action:** The cost to the entity to implement the regenerative action.&#x20;
+**Cost of Action Per Metric:** The cost to the entity to implement the regenerative action.&#x20;
 
-**Cost of Maintenance of Action:** The yearly cost to maintain the regenerative action.&#x20;
+**Cost of Maintenance of Action Per Metric:** The yearly cost to maintain the regenerative action. This will be paid for as long as the benefits from the regenerative action are taking place.&#x20;
 
 **Updates from the Field:** How often the project communicates with the funders about how the action is going.
+
+**Regenerative Action Title:** The title for the crowdfunding campaign.&#x20;
 
 **Regenerative action description:** a text description of what the project is&#x20;
 
@@ -89,7 +85,3 @@ Following is information that the entity can update to create their unique profi
 **Scientific Research:** Any research that will be benefited from this action and what the research is. &#x20;
 
 **Expected Benefits from the Action:** Such as improving water quality and quantity and contributing to the reduction of water-related risks such as floods. Reduces exposure and vulnerability to extreme weather events. The project combats desertification in this way.&#x20;
-
-## Measurement and Verification
-
-When an entity proposes a regenerative action to take place they also propose how they will measure and verify that the action happened. Data collection can be done through satellite imagery, smart technology, or boots on the ground. We will have a data collection and analysis knowledge repository that different regenerative actions can tap into so they don't have to create new methods. If our repository doesn't have methods that are able to be used with the regenerative action the organization can contact us and we will help them to develop something new. This repository will be constantly updated to keep up with the most scientific process for the measurement and verification of actions as well as the additional benefits from them.&#x20;

@@ -1,3 +1,0 @@
-# Crowd Funding
-
-An entity (organization or Individual) proposes a regenerative action and how much it would cost them to implement that action to the marketplace. A crowdfunding campaign is created with this information. People are able to immediately come and fund for this action to take place, in return for this funding a proportional chunk of an NFT is sent to their wallet. For example if it costs an entity 100 dollars to plant 100 trees and a funder donates 1 dollar, they would receive an NFT with a record of 1 tree getting planted in it. Once the crowdfunding limit needed to enact the regenerative activity is reached, 100% of that funding gets channeled to the entity to enact the regenerative activity.

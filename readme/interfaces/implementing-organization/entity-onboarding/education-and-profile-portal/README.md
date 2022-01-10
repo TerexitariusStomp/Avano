@@ -1,0 +1,3 @@
+# Education and Profile Portal
+
+The first step that an entity sees when becoming an implementing organization partner with Akorn is a profile creation portal and education section as to what rights are associated with the funding they receive. We ensure that entities know that only the right to benefits, that have a monetary value and can be resold, from the regenerative actions are associated with the funding. Land rights and other rights that they have claim to will not be touched. From there it is a super simple onboarding process. At no point during the initial creation or further creation of NFTs is coding by the regenerative organizations needed. This allows for the organizations to create their NFTs easily and become part of the ecosystem.
