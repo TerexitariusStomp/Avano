@@ -2,7 +2,7 @@
 
 ## Afforestation/ Reforestation Entity
 
-Profile Creation Example&#x20;
+## Entity Information Example&#x20;
 
 **Entity Name:** TreesureTheWorld&#x20;
 
@@ -42,4 +42,8 @@ Profile Creation Example&#x20;
 
 **Proposed Measurement and Verification:** We will use satellite imagery, geospatial imagery and IOT data collection techniques from Akorn DAOs existing methodology.&#x20;
 
-****![](<.gitbook/assets/image (6).png>)****
+None of the Optional Questions Were Answered
+
+## Profile Creation
+
+****![](<.gitbook/assets/image (3).png>)****
