@@ -6,7 +6,7 @@
   * [Mission, Vision, Values](readme/mission-vision-values.md)
   * [Market Validation](readme/introduction/market-validation.md)
   * [Revenue Sources](readme/introduction/revenue-sources.md)
-  * [Walkthrough](readme/walkthrough/README.md)
+  * [Walkthrough](walkthrough.md)
     * [Paying for Actions](readme/walkthrough/paying-for-actions/README.md)
       * [Entity Information](readme/walkthrough/paying-for-actions/entity-information.md)
       * [Profile Creation](readme/walkthrough/paying-for-actions/profile-creation.md)
