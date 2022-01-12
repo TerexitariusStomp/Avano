@@ -14,6 +14,8 @@ Following is information that the entity can update to create their unique profi
 
 **Where is the Entity Established:** which location the entity operates.&#x20;
 
+**Bank Account Information:** Bank number and routing information; used to transfer fiat funds to you from crowdfunding and related activities. &#x20;
+
 **Proposed Action Location:** Demarcation of the action location &#x20;
 
 **Regenerative Action Type:** Forest, Agriculture, Ocean, Other
@@ -39,6 +41,8 @@ Following is information that the entity can update to create their unique profi
 **Timeline for implementing action:** when the entity thinks the action can be done by after receiving funding (planting season and it's affect on the action)
 
 **Proposed Measurement and Verification:** How you will measure and verify that the action has taken place.&#x20;
+
+**Art to Be Used for Profile Creation:** Entities can either pick their own artists that they want to support and create the NFTs with or they can select from art that Akorn has commissioned from the marketplace's top artists.&#x20;
 
 ## Optional&#x20;
 

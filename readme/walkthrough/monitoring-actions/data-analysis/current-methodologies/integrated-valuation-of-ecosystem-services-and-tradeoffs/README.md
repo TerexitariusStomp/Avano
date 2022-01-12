@@ -1,0 +1,3 @@
+# Integrated Valuation of Ecosystem Services and Tradeoffs
+
+The first methodologies we want to start with are from the Integrated Valuation of Ecosystem Services and Tradeoffs tools ([the InVEST toolset](http://releases.naturalcapitalproject.org/invest-userguide/latest/index.html#)). In particular the [Mapping Ecosystem Services for Human Wellbeing ](https://naturalcapitalproject.stanford.edu/publications/mesh-factsheet-mapping-ecosystem-services-human-wellbeing)(MESH) toolset will act as a guide for selecting data that can be interoperable with different ecosystem service valuation models. The current data needs are for the nutrient retention, water yield, crop production, carbon storage, pollination, GLOBIO and sediment delivery models. &#x20;

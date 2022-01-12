@@ -1,8 +1,8 @@
-# Walkthrough
+# Entity Information
 
-## Afforestation/ Reforestation Entity
+The first step that an entity completes is inputting information about themselves and where they would like to carry out the regenerative activity.&#x20;
 
-## Entity Information Example&#x20;
+## Example&#x20;
 
 **Entity Name:** TreesureTheWorld&#x20;
 
@@ -14,9 +14,11 @@
 
 **Where is the Entity Established:** Globally
 
+**Bank Account Information:** 0, 0
+
 **Proposed Action Location:**
 
-![](<.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 **Regenerative Action Type:** Forest
 
@@ -36,14 +38,12 @@
 
 **Regenerative action description:** We are conserving forest in the Scatahotchie Neighborhood to be used as a forested park space and species protection zone. &#x20;
 
-**Complementary photos/ videos:** ![](<.gitbook/assets/image (5).png>)
+**Complementary photos/ videos:** ![](<../../../.gitbook/assets/image (5) (1).png>)
 
 **Timeline for implementing action:** Trees already exist, funding will be used to make the forest more inviting and connecting the local population to it.&#x20;
 
 **Proposed Measurement and Verification:** We will use satellite imagery, geospatial imagery and IOT data collection techniques from Akorn DAOs existing methodology.&#x20;
 
+**Art To Be Used for Profile Creation:** ![](<../../../.gitbook/assets/image (6).png>)****
+
 None of the Optional Questions Were Answered
-
-## Profile Creation
-
-****![](<.gitbook/assets/image (3).png>)****

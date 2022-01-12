@@ -1,0 +1,3 @@
+# Long Term Measurements
+
+LoRaWAN transmits data about environmental variables over time as sensors collect this data from the field. It can collect data such as (plant water use (sap flow), soil moisture and vapor pressure deficit, and can identify periods of low soil moisture, high plant water stress, as well as [trunk diameter](https://edaphic.com.au/products/dendrometers/tree-trunk-and-stem-dendrometer/). [Helium Network](https://www.helium.com/environmentalmonitoring?gclid=Cj0KCQiA8vSOBhCkARIsAGdp6RTmr7qtUnYKAaM51cPYpE9rgYxt6AlhO-odZY9pMWx6N4x0kv2RCVkaAj8tEALw\_wcB) is one of the stars in the cryptocurrency world for LoRaWAN technology. [Athena Equity](https://twitter.com/AthenaEquity) will be our partner working with us to get this data incorporated. &#x20;
