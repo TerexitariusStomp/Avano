@@ -94,6 +94,6 @@ KYC and AML finalized
 
 IDO Crowdfunding for first regenerative organizations Creation of first liquidity pools from IDO (Trees, Ocean, Ag)&#x20;
 
-## Q1 2023
+## Q4 2022
 
 Crosschain Expansion Enter Centralized Exchanges (tokens) Start Wrapping Tokens
