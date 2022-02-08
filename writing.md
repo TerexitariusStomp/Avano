@@ -6,7 +6,7 @@ We encourage our community members to write, especially implementing organizatio
 
 ## Paid for Writing
 
-We encourage the regenerative organizations that we support to write monthly articles on the work they are doing and their experience doing it. To reach as much an audience as possible, writing should be as understandable as possible. For the writing produced we recommend checking it with[ Grammarly](https://www.grammarly.com/plans), [The Hemingway App](https://hemingwayapp.com/desktop.html), or [Readable](https://readable.com/pro/) before publishing.
+We encourage the regenerative organizations that we support to write monthly articles on the work they are doing and their experience doing it. To reach as much an audience as possible, writing should be as understandable as possible. For the writing produced we recommend checking it with[ Grammarly](https://www.grammarly.com/plans), [The Hemingway App](https://hemingwayapp.com/desktop.html), [Lens](https://lens.dev) or [Readable](https://readable.com/pro/) before publishing.
 
 We then facilitate them publishing their writing on platforms that pay them for the audience they attract such as Medium, Mirror, and [1729](https://1729.com). Our DAO will also write and publish to these platforms.&#x20;
 
