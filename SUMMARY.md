@@ -120,6 +120,7 @@
       * [Oracle](readme/measurement-and-verification-of-actions/verification-of-actions/oracle.md)
   * [Prioritization of Actions](readme/prioritization-of-actions.md)
   * [NFT Marketplace](readme/nft-marketplace/README.md)
+    * [NFTs for Voting](readme/nft-marketplace/nfts-for-voting.md)
     * [Storage of Data](readme/nft-marketplace/storage-of-data.md)
     * [Unbroken Royalties](readme/nft-marketplace/unbroken-royalties.md)
     * [NFT License](readme/nft-marketplace/nft-license.md)
