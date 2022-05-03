@@ -6,7 +6,7 @@ We will work with organizations that audit code to ensure that our code is secur
 
 Honey Pots and Bounties
 
-We will partner with[![Honey pot](https://abs-0.twimg.com/emoji/v2/svg/1f36f.svg)DAO.eth](https://snapshot.org/#/%F0%9F%8D%AFdao.eth) for creating honeypots and bounties for bugs. This money will come from the revenue of Akorn's platform.&#x20;
+We will partner with[<img src="https://abs-0.twimg.com/emoji/v2/svg/1f36f.svg" alt="Honey pot" data-size="line">DAO.eth](https://snapshot.org/#/%F0%9F%8D%AFdao.eth) for creating honeypots and bounties for bugs. This money will come from the revenue of Akorn's platform.&#x20;
 
 Insurance&#x20;
 

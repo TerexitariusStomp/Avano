@@ -6,7 +6,7 @@ Akorn has decentralized finance (DeFi), NFT and gaming components to learn more 
 
 ## ****[Source For All Information Below](https://dappradar.com/blog/dapp-industry-overview-october-2021-on-nfts-defi-and-games)
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+<img src="../../.gitbook/assets/image (7) (1) (1).png" alt="" data-size="original">
 
 More than two million (2.16 million) unique active wallets (UAW), an estimate for the number of people, connected to blockchain decentralized applications on a daily basis. A 626% increase year-over-year.&#x20;
 
