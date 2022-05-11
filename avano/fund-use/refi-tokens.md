@@ -1,0 +1,3 @@
+# ReFi Tokens
+
+Endangered Tokens has now tokenized 12 in real endangered tree species. These NFT tokens are whitelisted to be able to be charged through the Charged Particles contract. These NFTs are planned to be charged with existing ReFi tokens like BCT, NCT, and MCO2. Avano has one of these NFTs and will use this as the charging holder for our ReFi tokens until more NFTs are able to be charged. A percent of the tokens is immediately invested in ReFi tokens and a percent goes towards yield bearing tokens whose yield is used to buy ReFi tokens. These 12 tree NFTs act as a forest with Grandmother Grove to support the ReFi movement.

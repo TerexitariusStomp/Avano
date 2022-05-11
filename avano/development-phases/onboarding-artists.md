@@ -1,0 +1,7 @@
+# Onboarding Artists
+
+The founder of Avano has moved into the Exchange in Christchurch. This community has previously been connected with Charged Particles through Beacon Bloom. Beacon Bloom is an active member of Mary Hush. Mary Hush is a local collective of Christchurch artists that throw themed, interactive and creative showcase nights that bring together music, visual arts, performance, dance, and digital arts. These immersive art experiences follow story-lines that are connected from 1 event to the next making people feel like they’re on a journey lasting longer than an event. They have also started integrating with the NFTs/blockchain art space. During one such event Beacon Bloom created an NFT with Sock Thief and 10% of the proceeds went towards regenerative forestry, this helped to plant 6,420 trees.
+
+The next Mary Hush event is in July 2022. Though the event will remain private with a limited number of people able to attend in person, a great amount of art will be created before and during the event. Some of this art will be turned into NFTs, both visual and audio (in collaboration with Unchained Music).
+
+By partnering with the Exchange and Mary Hush, an influx of NFT artists can become onboarded into this space. These artists will not only be able to see how NFTs bring them further community and financial resources, but that NFTs can create positive environmental change and the opportunity to display art in ways never thought possible.

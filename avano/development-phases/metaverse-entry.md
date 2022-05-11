@@ -1,0 +1,3 @@
+# Metaverse Entry
+
+With the ability to connect with so many artists and onboard them into this space, we needed areas in which to portray their art beyond NFT marketplaces. Over the Reality (OVR) was chosen to be our first metaverse entry. One of the reasons for this is that this metaverse is still connected with the physical reality. People are able to enter them through walking around with their phone, similar to Pokemon Go. Except for now more complex artistic scenes are able to portrayed. Avano now has OVR land throughout Christchurch (over the Botanical Gardens, Christchurch Art Gallery, Coca, Tyanhaus, Boxed Quarter and the Exchange).

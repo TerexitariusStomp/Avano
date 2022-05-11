@@ -1,0 +1,3 @@
+# Investing in Artists
+
+When revenue is generated, it can be channeled back to artists. In particular artists that are making art that evokes emotion and people to think deeper about subjects that impact the world around them. Taking learnings from Aera Force [https://www.aeraforce.xyz/](https://www.aeraforce.xyz), decentralized methodologies will be developed to source which artists to channel funds to (these artists do not need to be in the web3 space) and confirm that these are artists that are creating evocative art. In return for the funding, Avano will help the artist to create their first NFTs with one of those NFTs donated back to Avano and the rest being utilized how the artist wants.
