@@ -1,6 +1,4 @@
-# Problem
-
-There are two primary problems, lack of liquidity for NFTs and no return on investment when financially supporting environmental action.
+# Problems
 
 Charged Particles needs more creatives using their technology, the world needs more art evocative art that changes the way people think about society, the environment and the world around them, and the ReFi space needs more financial resources getting channeled into it connected to in real life environmental action. The two main technologies able to capture financial resources in web3 are tokens and NFTs.&#x20;
 
